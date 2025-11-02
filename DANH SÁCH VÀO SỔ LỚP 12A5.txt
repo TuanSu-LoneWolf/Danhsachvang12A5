@@ -1,25 +1,29 @@
 DANH SÁCH VÀO SỔ LỚP 12A5
 
 Thứ hai, ngày 22/09/2025
-Lê Hoài Bảo Chấn	Không chép bài (Lý)	-2
-Hồ Tuấn Khải		Không chép bài (Lý)	-2
+Lê Hoài Bảo Chấn	Không chép bài (Lý)		-2
+Hồ Tuấn Khải		Không chép bài (Lý)		-2
 
 Thứ năm, ngày 09/10/2025
-Hoàng Nhật Minh		Mất trật tự (Hóa)	-2
-Nguyễn Nam Anh		Vô trễ (Tin)		-2
-Lê Minh Hoàng		Vô trễ (Tin)		-2
-Lê Nguyễn Thanh Tuấn	Vô trễ (Tin)		-2
-Vũ Huỳnh Thanh Sơn	Vô trễ (Tin)		-2
-Lê Hoài Bảo Chấn	Vô trễ (Tin)		-2
-Trần Minh Khôi		Vô trễ (Tin)		-2
-Trần Đức Bình		Vô trễ (Tin)		-2
-Su Mỹ Tuấn		Vô trễ (Tin)		-2
-Trần Quang Đạt 		Vô trễ (Tin)		-2
-Đào Thị Quỳnh Chi	Vô trễ (Tin)		-2
-Ngô Thị Hà Vy		Vô trễ (Tin)		-2
-Bùi Anh Thư		Vô trễ (Tin)		-2
-
+Hoàng Nhật Minh		Mất trật tự (Hóa)		-2
+Nguyễn Nam Anh		Vô trễ (Tin)			-2
+Lê Minh Hoàng		Vô trễ (Tin)			-2
+Lê Nguyễn Thanh Tuấn	Vô trễ (Tin)			-2
+Vũ Huỳnh Thanh Sơn	Vô trễ (Tin)			-2
+Lê Hoài Bảo Chấn	Vô trễ (Tin)			-2
+Trần Minh Khôi		Vô trễ (Tin)			-2
+Trần Đức Bình		Vô trễ (Tin)			-2
+Su Mỹ Tuấn		Vô trễ (Tin)			-2
+Trần Quang Đạt 		Vô trễ (Tin)			-2
+Đào Thị Quỳnh Chi	Vô trễ (Tin)			-2
+Ngô Thị Hà Vy		Vô trễ (Tin)			-2
+Bùi Anh Thư		Vô trễ (Tin)			-2
 
 Thứ sáu, ngày 10/10/2025
-Din Hiền Khang Duy 	Ăn trong lớp (Sử)	-4
-Trần Đức Bình		Mất trật tự (Sử)	-2
+Din Hiền Khang Duy 	Ăn trong lớp (Sử)		-4
+Trần Đức Bình		Mất trật tự (Sử)		-2
+
+Thứ ba, ngày 28/10/2025
+Trần Đức Bình		Mất trật tự (Toán)		-2
+Phạm Trương Bảo Trâm	Mất trật tự (Toán)		-2
+Nguyễn Xuân Bắc		Sử dụng điện thoại (Toán)	-2
